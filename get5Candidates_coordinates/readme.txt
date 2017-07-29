@@ -6,4 +6,4 @@ filename.coor
 filename_xy.bmp
 
 in coor: filename and x y z intensity
-the order of the points are green, blue, red, cyan, and yellow.
+the order of the points is green, blue, red, cyan, and yellow.
