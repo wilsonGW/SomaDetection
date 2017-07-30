@@ -1,4 +1,4 @@
-For only one soma in one data. Logistic selected 0.5 as threshhold value.
+For unknown soma in one data. Logistic selected 0.5 as threshold value.
 
 input : filelist
 output : filelist.soma, filelist.bmp filelist.attr
