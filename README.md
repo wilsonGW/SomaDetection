@@ -16,3 +16,5 @@ Soma_detection_0.5 find multiple somas.
 Soma_detection_highese find 1 soma.
 
 Please contact Guan Wei (wilsonho.cs99g@nctu.edu.tw) if you have any question.
+
+The input file format is Amira ASCII. You can use ImageJ(Fiji) to convert it.
